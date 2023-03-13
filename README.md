@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paingchan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning chinese language & full stack development
+- 🌱 I’m currently learning chinese language & fullstack development
 
 <!---
 paingchan/paingchan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
