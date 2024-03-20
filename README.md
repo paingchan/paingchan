@@ -7,6 +7,9 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="JavaScript logo" width="40" height="40" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="JavaScript logo" width="40" height="40" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="JavaScript logo" width="40" height="40" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="JavaScript logo" width="40" height="40" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="JavaScript logo" width="40" height="40" /> 
 
 ---
 **About me**
