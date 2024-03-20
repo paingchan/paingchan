@@ -10,6 +10,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="JavaScript logo" width="40" height="40" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="JavaScript logo" width="40" height="40" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="JavaScript logo" width="40" height="40" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="JavaScript logo" width="40" height="40" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="JavaScript logo" width="40" height="40" /> 
+
 
 ---
 **About me**
