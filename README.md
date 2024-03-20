@@ -10,8 +10,7 @@
 ---
 **About me**
 
-- 💼 Team Leader at [ACE Data Systems](https://acedatasystems.com/) [Sep 2015 - Present]
-- 💼 Senior Software Engineer (Part-time) at [Techno Bright Innovation Group Co.Ltd](https://www.facebook.com/TechnoBrightInnovationGroup) [Oct 2017 - Nov 2022]
+I'm Paing Chan (涂正刚), a 24-year-old student from Myanmar studying at Huaqiao University in Xiamen, China. I'm passionate about computer science and dream of working as a software engineer in a major overseas company. I have skills in web development, particularly in UI/UX design, Laravel, and Vue.js, and I enjoy contributing to open-source projects on GitHub.
 
 <h2  align="center">📫 Reach me on</h2>
 <div align="center">
@@ -44,7 +43,7 @@
 ## GitHub Trophies
 <div align="center">
     
-![](https://github-profile-trophy.vercel.app/?username=sannlynnhtun-coding&theme=nord&row=2&column=5)
+![](https://github-profile-trophy.vercel.app/?username=paingchan&theme=nord&row=2&column=5)
 
 </div>
 
