@@ -26,6 +26,13 @@ I'm Paing Chan (涂正刚), a 24-year-old student from Myanmar studying at Huaqi
     
 </div>
 
+<h2 align="center"> 🔭 Languages and Tools</h2>
+
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![Paing's GitHub stats](https://github-readme-stats.vercel.app/api?username=paingchan&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paingchan&hide=javascript,html,css&layout=compact&theme=github_dark)
 ![Paing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paingchan&theme=github-compact)
