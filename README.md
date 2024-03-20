@@ -15,20 +15,12 @@
 
 <h2  align="center">📫 Reach me on</h2>
 <div align="center">
-<a href="https://fb.com/sannlynnhtun-coding" target="blank">
+<a href="https://fb.com/paing3218" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="burma.colllin" height="40" width="40" />
 </a>
-<a href="https://linkedin.com/in/sannlynnhtun" target="blank">
+<a href="https://www.linkedin.com/in/paing-chan-17136b186" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="sannlynnhtun-coding" height="40" width="40" />
 </a>
-<a href="https://soundcloud.com/burmacolllin/tracks" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504939.png" alt="sannlynnhtun-coding" height="40" width="40" />
-</a>
-<a href="https://www.youtube.com/@SannLynnHtun" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" alt="sannlynnhtun-coding" height="40" width="40" />
-</a>
-<a href="https://www.youtube.com/@BurmaCollin" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/1834/1834342.png" alt="sannlynnhtun-coding" height="40" width="40" />
 </a>
     
     
@@ -36,7 +28,7 @@
 
 <h2 align="center"> 🔭 Languages and Tools</h2>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Figma](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -44,10 +36,10 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannlynnhtun-coding&hide=javascript,html,css&layout=compact&theme=github_dark)
-![Sann Lynn Htun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sannlynnhtun-coding&theme=github-compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=sannlynnhtun-coding&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=950)
+![Paing's GitHub stats](https://github-readme-stats.vercel.app/api?username=paingchan&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paingchan&hide=javascript,html,css&layout=compact&theme=github_dark)
+![PaingChan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paingchan&theme=github-compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=paingchan&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=950)
 
 ## GitHub Trophies
 <div align="center">
