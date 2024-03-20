@@ -26,7 +26,10 @@ I'm Paing Chan (涂正刚), a 24-year-old student from Myanmar studying at Huaqi
     
 </div>
 
-
+![Paing's GitHub stats](https://github-readme-stats.vercel.app/api?username=paingchan&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paingchan&hide=javascript,html,css&layout=compact&theme=github_dark)
+![Paing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paingchan&theme=github-compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=paingchan&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=950)
 
 ## GitHub Trophies
 <div align="center">
@@ -34,4 +37,6 @@ I'm Paing Chan (涂正刚), a 24-year-old student from Myanmar studying at Huaqi
 ![](https://github-profile-trophy.vercel.app/?username=paingchan&theme=nord&row=2&column=5)
 
 </div>
+
+
 
