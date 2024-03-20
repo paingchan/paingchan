@@ -26,7 +26,7 @@ I'm Paing Chan (涂正刚), a 24-year-old student from Myanmar studying at Huaqi
     
 </div>
 
-<h2 align="center"> 🔭 Languages and Tools</h2>
+<h2 align="center">Database</h2>
 
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
